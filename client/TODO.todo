@@ -1,0 +1,11 @@
+[] - Configure authentication
+[] - Create the view to see add and view tasks
+[] - Allow user to filter the tasks by:
+    [] - All tasks
+    [] - Completed tasks
+    [] - Incomplete tasks
+    [] - Ascending or Descending order
+[] - Allow user to edit tasks
+[] - Allow user to delete tasks
+[] - Allow user to complete tasks
+[] - Configure environment variables

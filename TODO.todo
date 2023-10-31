@@ -1,0 +1,23 @@
+BEFORE YOU PUSH CHANGES TO THE REMOTE REPOSITORY
+
+[] - Add documentation
+[] - Update README file
+[] - Remove unnecessary code
+
+CLIENT SIDE
+
+[] - Choose between mobile-first and deskop-first design
+[] - Design the visual structure of the application
+[] - Find a color palette for dark and light themes
+[] - Find icons related to creating, searching, editing and deleting tasks
+[] - Choose a font family
+
+SERVER SIDE
+
+[] - Design an API that allows applying CRUD actions user-based tasks
+[] - Design the logic for user authentication
+[] - Choose a database management system
+
+GENERAL 
+
+[] - Choose where to deploy the entire application
